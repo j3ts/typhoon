@@ -4,6 +4,7 @@ Notable changes between versions.
 
 ## Latest
 
+* Switch kube-proxy from iptables mode to ipvs mode
 * Fix CoreDNS AntiAffinity spec to prefer spreading replicas
 
 #### AWS
